@@ -3,9 +3,9 @@ My name is Oluseun Ademola Bamigboye, I have seveal years of construction experi
 
 ### My Skills
 
-I  have mastered some Data Analytic software such as,
+I  have mastered some Data Analytic Tools such as,
 
-- Microsof Excel : Power Query,Pivot table,Pivot Query and creating Dashboards with excel
+- Microsof Excel : Excel Functions, Power Query, Pivot table,mPivot Query and creating Dashboards with excel
 - SQL : Understanding of basic sql commands and still undergoing training on advance SQL skill
 - Power BI : Undergoing training  in Power BI
 
