@@ -1,5 +1,5 @@
 ### Brief Introduction;
-My name is Oluseun Ademola Bamigboye, I have seveal years of construction experinece  my interest in data and statistic prompted me to strive for a career switch into Data Analytices
+My name is Oluseun Ademola Bamigboye, I have seveal years of construction experinece  my interest in data and statistic prompted me to strive for a career switch into Data Analytics
 
 ### My Skills
 
